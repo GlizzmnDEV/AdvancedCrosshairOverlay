@@ -1,3 +1,7 @@
+Legit could not have done any of this without Kestral being a god. W Kestral for allowing me to do this and helping along the way.
+
+
+
 # Advanced Crosshair Overlay
 
 This mod allows you to build/overlay your own custom crosshair (or any image you want) over the game.
