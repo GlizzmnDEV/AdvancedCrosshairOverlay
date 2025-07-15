@@ -1,6 +1,10 @@
-# Crosshair Overlay
+Legit could not have done any of this without Kestral being a god. W Kestral for allowing me to do this and helping along the way.
 
-This mod allows you to overlay your own custom crosshair (or any image you want) over the game.
+
+
+# Advanced Crosshair Overlay
+
+This mod allows you to build/overlay your own custom crosshair (or any image you want) over the game.
 
 ## Usage
 
@@ -16,17 +20,16 @@ All customisation options are available through the mod's config file~ these inc
 You can change the active crosshair. To do so, place a png or jpeg image in the mod's install directory, and
 change the config option `File name` to the name of the image (with extension).
 
-## Manual Installation Instructions
+## Crosshair Builder
 
-_**(you should probably just use a mod manager like [r2modman](https://thunderstore.io/c/straftat/p/ebkr/r2modman/)
-or [gale](https://thunderstore.io/c/straftat/p/Kesomannen/GaleModManager/) though)**_
+Toggle off "Use Image Mode" to enable the builder
 
-!!! You need [Bepinex 5](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21) !!!
+Scroll down and adjust values such as:
 
-<small>(if you have no idea what the versions mean try BepInEx_x64_5.4.21.0 and it might work. maybe)</small>
-
-Once BepInEx is installed, extract the zip into the BepInEx/plugins folder in the game's root directory.
-
-have fun :3
-
-<img src ="https://files.catbox.moe/4ngjto.png" width="250" alt="kity">
+- Length | Length of each crosshair arm
+- Rotation (not working) | Rotation of the crosshair in degrees
+- Spacing (Gap) | Spacing between the center and each arm
+- Width | Width of each crosshair arm or element
+- Stroke (not working) | Stroke outline
+- Stroke Color (not working) | Stroke color
+- Color | Fill color for the builder crosshair
